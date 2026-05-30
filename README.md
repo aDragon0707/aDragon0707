@@ -41,3 +41,5 @@ reviewable, improvable, and aligned with human judgment?
 
 - GitHub: [@aDragon0707](https://github.com/aDragon0707)
 - Personal site: [longju.alantern.com](https://longju.alantern.com/zh)
+
+<!-- profile-readme-refresh: 2026-05-30 -->
