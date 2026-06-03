@@ -3,32 +3,43 @@
 > 每天进步一点点，探索人与 AI 共同进化。  
 > Improving a little every day, exploring human-AI co-evolution.
 
-I build tools and protocols for **auditable AI agent workflows**.
+I build **auditable workflows for AI agents**: task packets, work receipts, handoffs, and human review boundaries.
 
-My current focus is **SACP**: a lightweight envelope-and-receipt protocol for AI agent work. It helps agent builders track task identity, claims, evidence, status, next ownership, and human decision boundaries across long-running or multi-agent workflows.
+My current focus is **SACP**, a lightweight protocol for making long-running AI agent work traceable, reviewable, and improvable.
 
-SACP started from my experiments with **Socrates Focus** and **Solo AI Company OS**, where I repeatedly ran into the same agent workflow problems: context drift, missing evidence, duplicate handoffs, memory pollution, and unclear ownership.
+## Start Here
 
-## Current Focus
+- **[SACP](https://github.com/aDragon0707/sacp)**  
+  State-Aware Collaboration Protocol for auditable AI agent work.
 
-- **SACP** — envelope and receipt protocol for auditable agent work
-- **token-prompt-compiler** — turns messy human intent into bounded task packets
-- **agent-cost-router** — routes tasks by cost, context, risk, and model strength
-- **claude-code-html-skill** — turns Markdown reports into readable HTML artifacts
-- **Solo AI Company OS** — a Markdown-first operating system for human-AI collaboration
+- **[Solo AI Company OS](https://github.com/aDragon0707/Solo-AI-Company-OS)**  
+  A Markdown-first operating system for human-AI collaboration: decisions, roles, worklogs, handoffs, and review records.
+
+- **[token-prompt-compiler](https://github.com/aDragon0707/token-prompt-compiler)**  
+  Turns messy human intent into bounded, token-efficient task packets for LLM agents.
+
+- **[agent-cost-router](https://github.com/aDragon0707/agent-cost-router)**  
+  Routes AI tasks by cost, risk, context, and model strength.
+
+- **[Agent Flight Recorder](https://github.com/aDragon0707/audit-evolution-agent-flight-recorder)**  
+  Turns agent runs into snapshots, evidence trails, improvement cards, and field notes.
+
+- **[Portfolio](https://github.com/aDragon0707/adragons-portfolio)**  
+  My bilingual personal portfolio for AI systems, learning, and selected work.
 
 ## What I Care About
 
 - AI agent accountability
+- human-in-the-loop workflows
 - task packets and work receipts
 - prompt and context engineering
-- evals, dirty-run cases, and evidence boundaries
-- human memory and AI-assisted learning systems
+- evaluation evidence and dirty-run cases
+- AI-assisted learning systems
 - solo AI company workflows
 
 ## Direction
 
-I am turning my AI workflow experiments into clearer open-source artifacts, demos, and case studies.
+I use GitHub as a public lab for turning AI workflow experiments into clearer protocols, tools, demos, and case studies.
 
 The long-term question I care about:
 
@@ -41,5 +52,6 @@ reviewable, improvable, and aligned with human judgment?
 
 - GitHub: [@aDragon0707](https://github.com/aDragon0707)
 - Personal site: [longju.alantern.com](https://longju.alantern.com/zh)
+- X: [@Adragon021](https://x.com/Adragon021)
 
-<!-- profile-readme-refresh: 2026-05-30 -->
+<!-- profile-readme-refresh: 2026-06-03 -->
