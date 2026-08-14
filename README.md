@@ -24,6 +24,9 @@ My current focus is **SACP**, a lightweight protocol for making long-running AI 
 - **[Agent Flight Recorder](https://github.com/aDragon0707/audit-evolution-agent-flight-recorder)**  
   Turns agent runs into snapshots, evidence trails, improvement cards, and field notes.
 
+- **[read-research-papers](https://github.com/aDragon0707/read-research-papers)**  
+  A Codex skill implementing S. Keshav's three-pass method for progressively deeper paper reading.
+
 - **[Portfolio](https://github.com/aDragon0707/adragons-portfolio)**  
   My bilingual personal portfolio for AI systems, learning, and selected work.
 
