@@ -18,9 +18,6 @@ My current focus is **SACP**, a lightweight protocol for making long-running AI 
 - **[token-prompt-compiler](https://github.com/aDragon0707/token-prompt-compiler)**  
   Turns messy human intent into bounded, token-efficient task packets for LLM agents.
 
-- **[agent-cost-router](https://github.com/aDragon0707/agent-cost-router)**  
-  Routes AI tasks by cost, risk, context, and model strength.
-
 - **[Agent Flight Recorder](https://github.com/aDragon0707/audit-evolution-agent-flight-recorder)**  
   Turns agent runs into snapshots, evidence trails, improvement cards, and field notes.
 
